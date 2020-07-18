@@ -1,7 +1,7 @@
 {
   "name": "@intelrug/nestjs-bunnycdn",
   "description": "Integrates BunnyCDN with Nest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "dist/bunnycdn.js",
   "typings": "dist/types/bunnycdn.d.ts",
